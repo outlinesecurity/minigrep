@@ -1,6 +1,6 @@
 # minigrep
 
-A small command line program to search a file for a query. 
+A small command line program to search a file for a query. Build with `cargo build`
 
 ## Examples
 
